@@ -1,4 +1,4 @@
 demo_git
 ========
 
-mooc git
+mooc git rolling out
